@@ -1,2 +1,7 @@
 __pycache__/
 *.pyc
+SAA-C03_Examtopics_V20.35_KOR.pdf
+build_question_bank.py
+question-bank-data.json
+question-bank.template.html
+question-bank.html
